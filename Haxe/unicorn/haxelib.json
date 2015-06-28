@@ -1,0 +1,10 @@
+{
+	"name": "unicorn",
+	"url" : "https://github.com/Hanul/unicorn/",
+	"license": "MIT",
+	"tags": ["cross", "unicorn"],
+	"description": "UPPERCASE.IO/UPPERCASE.JS OOP Implementation",
+	"version": "1.0.0",
+	"classPath": "src/",
+	"contributors": ["Hanul"]
+}

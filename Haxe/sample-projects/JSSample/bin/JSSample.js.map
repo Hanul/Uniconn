@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"JSSample.js",
+"sourceRoot":"file:///",
+"sources":["C:/Users/hanul/Documents/aptana-workspace/Unicorn/Haxe/sample-projects/JSSample/src/Main.hx","C:/Users/hanul/Documents/aptana-workspace/Unicorn/Haxe/unicorn/src/io/uppercase/unicorn/Calendar.hx"],
+"names":[],
+"mappings":";;YAOO,DAAgB;CAGP,6BAAa;CACxB;CAEJ,WAAM;;gCCLA,jBACN;GAAY;;;SAGN,EACN;OAAO;;UAGD,CACN;OAAO,JAAkB;;gBAGnB,LAAiC;EAEvB;EAEhB,AAAI,CAAQ,FACX,MAAO,JAAM,GAEb,CAAO,JAAK;;;;;;"
+}
