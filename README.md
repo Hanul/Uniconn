@@ -1,5 +1,5 @@
-# Unicorn
-Unicorn은 객체 지향 언어로 개발된 UPPERCASE 클라이언트입니다. 이 프로젝트는 Unicorn에서 공통으로 사용되는 API의 원형에 대해 다룹니다.
+# Uniconn
+Uniconn은 객체 지향 언어로 개발된 UPPERCASE 클라이언트입니다. 이 프로젝트는 Uniconn에서 공통으로 사용되는 API의 원형에 대해 다룹니다.
 
 ## Connector
 - Connector(String host, boolean secure, int webServerPort, int socketServerPort, ConnectedHandler connectedHandler, DisconnectedHandler disconnectedHandler)
@@ -43,8 +43,8 @@ UPPERCASE 서버와의 접속 및 통신 작업을 처리하는 기본적인 클
 ### Handler
 
 ## JSONUtil
-Unicorn 내부적으로 사용하는 JSON 유틸리티입니다.
+Uniconn 내부적으로 사용하는 JSON 유틸리티입니다.
 
 ## 구현체
-- [Unicorn-Android](https://github.com/Hanul/Unicorn-Android)
-- [Unicorn-iOS](https://github.com/Hanul/Unicorn-iOS)
+- [Uniconn-Android](https://github.com/Hanul/Uniconn-Android)
+- [Uniconn-iOS](https://github.com/Hanul/Uniconn-iOS)
